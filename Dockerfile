@@ -2,6 +2,6 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "shrth@gmail.com" 
+MAINTAINER "shrth1993@gmail.com" 
 COPY ./webapp.war /usr/local/tomcat/webapps
 
